@@ -1,0 +1,632 @@
+Question,Ans1,Ans2,Ans3,Ans4,Correct ans,Explanation,Check/Radio
+
+NEW QUESTION 1
+What is the term used to describe giving an AWS user only access to the exact services he/she needs to do the required job and nothing more?
+Choose the Correct Answer
+A. The Least Privilege User Principal
+B. The Principal of Least Privilege
+C. The Only Access Principal.
+D. None of the above
+Answer: B
+
+NEW QUESTION 2
+What AWS service must you use if you want to configure an AWS billing alarm? Choose the Correct
+Answer
+A. CloudWatch
+B. CloudMonitor
+C. Consolidated billing
+D. CloudTrail
+Answer: A
+Explanation:
+CloudWatch is the AWS service that allows you to collect metrics, and create alarms based on those metrics. Billing metrics can be tracked in CloudWatch,
+therefore billing alarms can be created.
+
+NEW QUESTION 3
+Your company's upper management is getting very nervous about managing governance, compliance, and risk auditing in AWS. What service should you enable
+and inform upper management about?
+Choose the Correct Answer
+A. CloudAudit
+B. CloudTrail
+C. CloudCompliance
+D. CloudWatch
+Answer: B
+Explanation:
+AWS CloudTrail is designed to log all actions taken in your AWS account. This provides a great resource for governance, compliance, and risk auditing.
+
+NEW QUESTION 4
+The concept of elasticity is most closely associated with which of the following?
+Choose the Correct Answer
+A. Auto Scaling
+B. Network Security
+C. Serverless Computing
+D. Elastic Load Balancing
+Answer: A
+Explanation:
+Elasticity is the concept that a system can easily (and cost-effectively) both increase in capacity based on-demand and also shrink in capacity based on-demand.
+Auto Scaling on AWS is specifically designed to (automatically) increase and decrease server capacity based on-demand.
+
+NEW QUESTION 5
+What endpoints are possible to send messages to with Simple Notification Service? (Select all that apply)
+Choose the 3 Correct answers:
+A. SMS
+B. FTP
+C. SQS
+D. Lambda
+Answer: ACD
+
+NEW QUESTION 6
+What does S3 stand for? Choose the Correct Answer
+A. Simple Storage Service
+B. Simplified Storage Service
+C. Simple Store Service
+D. Service for Simple Storage
+
+Passing Certification Exams Made Easy
+
+visit - https://www.2PassEasy.com
+
+Welcome to download the Newest 2passeasy AWS-Certified-Cloud-Practitioner dumps
+https://www.2passeasy.com/dumps/AWS-Certified-Cloud-Practitioner/ (105 New Questions)
+
+Answer: A
+
+NEW QUESTION 7
+Big Cloud Jumbo Corp is beginning to explore migrating their entire on-premises data center to AWS. They are very concerned about how much it will cost once
+their entire I.T. infrastructure is running on AWS. What tool can you recommend so that they can estimate what the cost of using AWS may be?
+Choose the Correct Answer
+A. AWS Estimate Calculator
+B. AWS TCO Calculator
+C. AWS Cost Explorer
+D. AWS Migration Cost Calculator
+Answer: B
+Explanation:
+The AWS TCO (Total Cost of Ownership) Calculator is a free tool provided by AWS. It allows you to compare your current on-premises cost vs. estimated AWS
+cost.
+
+NEW QUESTION 8
+Kunal is managing an application running on an on-premises data center. What best describes the challenges he faces that someone using the AWS cloud does
+not?
+Choose the Correct Answer
+A. Kunal must research what size (compute capacity) servers he needs to run his application.
+B. Kunal must know how to properly configure network level security.
+C. Kunal must predict future growth, and scaling can be costly and time consuming.
+D. None of the abov
+Answer: C
+Explanation:
+Scaling is much faster and cost-effecting on the AWS cloud. With on-demand instances and autoscaling, future growth does not have to be predicted. More
+compute capacity can be added gradually
+as demand increases.
+
+NEW QUESTION 9
+What AWS storage class should be used for long-term, archival storage?
+Choose the Correct Answer
+A. Glacier
+B. Long-Term
+C. Standard
+D. Infrequent Access
+Answer: A
+Explanation:
+Glacier should be used for (and is specifically designed for) long-term , archival storage.
+
+NEW QUESTION 10
+What are the benefits of DynamoDB? (Select all that apply) Choose the 3 Correct answers:
+A. Supports multiple known NoSQL database engines like MariaDB and Oracle NoSQL.
+B. Automatic scaling of throughput capacity.
+C. Single-digit millisecond latency.
+D. Supports both document and key-value store data model
+Answer: BCD
+Explanation:
+DynamoDB does not use/support other NoSQL database engines. You only have access to use DynamoDB's built-in engine.
+
+NEW QUESTION 10
+What best describes penetration testing?
+Choose the Correct Answer
+A. Testing your applications ability to penetrate other applications.
+B. Testing your IAM users access to AWS services.
+C. Testing your own network/application for vulnerabilities.
+D. None of the abov
+Answer: C
+
+NEW QUESTION 11
+You are trying to organize and import (to AWS) gigabytes of data that are currently structured in JSON-like, name-value documents. What AWS service would best
+fit your needs?
+
+Passing Certification Exams Made Easy
+
+visit - https://www.2PassEasy.com
+
+Welcome to download the Newest 2passeasy AWS-Certified-Cloud-Practitioner dumps
+https://www.2passeasy.com/dumps/AWS-Certified-Cloud-Practitioner/ (105 New Questions)
+
+Choose the Correct Answer
+A. Lambda
+B. Aurora
+C. RDS
+D. DynamoDB
+Answer: D
+Explanation:
+DynamoDB is AWS's NoSQL database offering. NoSQL databases are for non-structured data that are typically stored in JSON-like, name-value documents.
+
+NEW QUESTION 13
+What is the availability and durability rating of S3 Standard Storage Class?
+Choose the Correct Answer
+A. 99.999999999% Durability and 99.99% Availability
+B. 99.999999999% Availability and 99.90% Durability
+C. 99.999999999% Availability and 99.99% Durability
+D. 99.999999999% Durability and 99.00% Availability
+Answer: A
+Explanation:
+S3 Standard Storage class has a rating of 99.999999999% durability (referred to as 11 nines) and 99.99% availability.
+
+NEW QUESTION 18
+If you want to easily share a file with a friend, family or coworker, what AWS solution should you use?
+Choose the Correct Answer
+A. Mail them a flash drive with the file on it.
+B. Create an EC2 instance and give provide login credentials so others can access the file.
+C. Upload the object to S3 and share it via its object's S3 public object URL.
+D. None of the abov
+Answer: C
+Explanation:
+You can easily share objects uploaded into S3 by provided others with the object's URL.
+
+NEW QUESTION 21
+What AWS service has built-in DDoS mitigation?
+Choose the Correct Answer
+A. CloudFront
+B. CloudTrail
+C. CloudWatch
+D. EC2
+Answer: A
+Explanation:
+With CloudFront, you cache content at Edge Locations, which shield your underlining application infrastructure from DDoS attacks.
+
+NEW QUESTION 22
+Thomas is managing the access rights and credentials for all the employees that have access to his company's AWS account. This morning, his was notified that
+some of these accounts may have been compromised, and he now needs to change the password policy and re-generate a new password for all users. What
+AWS service does Thomas need to use in order to accomplish this?
+Choose the Correct Answer
+A. Policy and Access Management
+B. Elastic Cloud Compute
+C. Access Management
+D. None of the abov
+Answer: D
+Explanation:
+Identity and Access Management (IAM) is the AWS service where password policies and user credentials are managed. (Policy and Access Management as a
+service does not exist).
+
+NEW QUESTION 23
+What are the primary benefits of using Lambda? (Select all that apply) Choose the 2 Correct answers:
+A. Pay for only the compute time you consume.
+B. Wide variety of operating systems to select from.
+C. Actively select and manage instance type and capacity.
+
+Passing Certification Exams Made Easy
+
+visit - https://www.2PassEasy.com
+
+Welcome to download the Newest 2passeasy AWS-Certified-Cloud-Practitioner dumps
+https://www.2passeasy.com/dumps/AWS-Certified-Cloud-Practitioner/ (105 New Questions)
+
+D. Run code without provisioning server
+Answer: AD
+Explanation:
+Lambda, being AWS's serverless compute platform, means there are no servers, instance types, or capacity to select. That is all managed for you. With Lambda,
+you only for the when your code is actually being executed.
+
+NEW QUESTION 27
+If you have a set of frequently accessed files that are used on a daily basis, what S3 storage class should you store them in?
+Choose the Correct Answer
+A. Infrequent Access
+B. Reduced Redundancy
+C. Standard
+D. Fast Access
+Answer: C
+Explanation:
+The Standard storage class should be used for files that you access on a daily or very frequent basis.
+
+NEW QUESTION 30
+Which of the following will effect price you pay for an EC2 instance? (Select all that apply) Choose the 3 Correct answers:
+A. Instance Type.
+B. Selected Storage Class
+C. How long you use the instance for.
+D. Amazon Machine Image (AMI).
+Answer: ACD
+Explanation:
+EC2 instance pricing various depending on many variables. 1) The type of buying option 2) Selected Ami 3) Selected instance type 4) Region 5) Data in/out 6)
+Storage capacity
+
+NEW QUESTION 31
+If you want in-depth details on how to create, manage, and attach IAM access policies to IAM users, in what AWS resource should you look?
+Choose the Correct Answer
+A. AWS How-To-Help Section
+B. AWS Service Documentation
+C. AWS Whitepapers
+D. None of the above
+Answer: B
+Explanation:
+AWS Service documentation is a collection of documents specific to each AWS service. They contain detailed how-to's, as well as technical walkthroughs and
+specifications.
+
+NEW QUESTION 36
+You notice that five of your 10 S3 buckets are no longer available in your account, and you assume that they have been deleted. You are unsure who may have
+deleted them, and no one is taking responsibility. What should you do to investigate and find out who deleted the S3 buckets?
+Choose the Correct Answer
+A. Look at the S3 logs.
+B. Look at the CloudTrail logs.
+C. Look at the CloudWatch Logs.
+D. Look at the SNS log
+Answer: B
+Explanation:
+CloudTrail is logging service that logs actions taken by AWS users in your AWS account, such as creating/deleting S3 buckets, starting/stopping EC2 stances, etc.
+
+NEW QUESTION 39
+What should you do if you believe your AWS account has been compromised? (Select all that apply) Choose the 4 Correct answers:
+A. Delete any resources in your account that you did not create.
+B. Respond to any notifications you received from AWS through the AWS Support Center.
+C. Change all IAM user's passwords.
+D. Delete or rotate all programatic (API) access key
+Answer: ABCD
+Explanation:
+
+Passing Certification Exams Made Easy
+
+visit - https://www.2PassEasy.com
+
+Welcome to download the Newest 2passeasy AWS-Certified-Cloud-Practitioner dumps
+https://www.2passeasy.com/dumps/AWS-Certified-Cloud-Practitioner/ (105 New Questions)
+
+All these answers are actions you should take if you believe you account has been compromised.
+
+NEW QUESTION 42
+Under what circumstances would someone want to use ElastiCache? (Select all that apply) Choose the 2 Correct answers:
+A. They need a NoSQL database option
+B. They need to use Edge Locations to cache content
+C. The need improved improve the performance of their web application.
+D. They need in-memory data store servic
+Answer: CD
+Explanation:
+ElastiCache is used as an in-memory data store or cache in the cloud. Benefits include improved performance for web applications (that rely on information stored
+in a database). Edge Locations are used for caching content with the CloudFront service, so that is not a answer here.
+
+NEW QUESTION 43
+What is the purpose of AWS's Route 53 service? (Select all that apply) Choose the 2 Correct answers:
+A. Content Caching
+B. Database Management
+C. Domain Registration
+D. Domain Name System (DNS) service
+Answer: CD
+Explanation:
+Route 53 is AWS's domain and DNS management service. You can use it to register new domain names, as well as manage DNS record sets.
+
+NEW QUESTION 44
+What AWS service allows you to have your own private network in the AWS cloud?
+Choose the Correct Answer
+A. Virtual Private Network (VPN)
+B. Virtual Private Cloud (VPC)
+C. Virtual Cloud Network (VCN)
+D. None of the abov
+Answer: B
+Explanation:
+A Virtual Private Cloud (VPC) is a private sub-section of AWS that is your own private network. You control what resources you place inside the VPC and the
+security features around it.
+
+NEW QUESTION 46
+If you are using an on-demand EC2 instance, how are you being charged for it?
+Choose the Correct Answer
+A. You are charged per second, based on an hourly rate, and there are no termination fees.
+B. You are charged by the hour and must pay a partial upfront fee.
+C. You must commit to a one or three year term and pay upfront.
+D. You are charged per second, based on an hourly rate, and there is a termination fe
+Answer: A
+Explanation:
+On-demand EC2 instances are exactly that, on-demand. There are no upfront or termination fees, and you are charged for each second of usage (based on an
+hourly rate).
+
+NEW QUESTION 47
+Tracy has created a web application, placing it's underlining infrastructure in the N. Virginia (US-East1) region. After several months, Tracy notices that much of the traffic coming to her website is coming from Japan. What can Tracy do to (best) help reduce latency
+for her users in Japan?
+Choose the Correct Answer
+A. Copy the current VPC and located in US-East-1 and ask AWS to move it to a region closest to Japan
+B. Create a and manage a complete duplicate copy of the web application and its infrastructure in a region closest to Japan.
+C. Create a CDN using CloudFront, making sure the proper content is cached at Edge Locations closest to Japan.
+D. Create a CDN using CloudCache, making sure the proper content is cached at Edge Locations closest to Japan.
+Answer: C
+Explanation:
+CloudFront is AWS's content delivery network (CDN) service. You can use it to cache web content at edge locations what are closest to you customers. This will
+decrease latency for the customer and improve overall performance.
+
+Passing Certification Exams Made Easy
+
+visit - https://www.2PassEasy.com
+
+Welcome to download the Newest 2passeasy AWS-Certified-Cloud-Practitioner dumps
+https://www.2passeasy.com/dumps/AWS-Certified-Cloud-Practitioner/ (105 New Questions)
+
+NEW QUESTION 48
+What best describes the concept of fault tolerance?
+Choose the Correct Answer
+A. The ability for a system to withstand a certain amount of failure and still remain functional.
+B. The ability for a system to grow and shrink based on demand.
+C. The ability for a system to grow in size, capacity, and/or scope.
+D. The ability for a system be accessible when you attempt to access i
+Answer: A
+Explanation:
+Fault tolerance describes the concept of a system (in our case a web application) to have failure in some of its components and still remain accessible (highly
+available). Fault tolerant web applications will have at least two web servers (in case one fails).
+
+NEW QUESTION 52
+What best describes a simplified definition of the "cloud"?
+Choose the Correct Answer
+A. All the computers in your local home network.
+B. A computer located somewhere else that you are utilizing in some capacity.
+C. An on-premisis data center that your company owns.
+D. Your internet service provider
+Answer: B
+Explanation:
+The simplest definition of the cloud is a computer that is located somewhere else that you are
+utilizing in some capacity. AWS is a cloud services provider, as the provide access to computers they own (located at AWS data centers), that you use for various
+purposes.
+
+NEW QUESTION 54
+What is the purpose of a DNS server?
+Choose the Correct Answer
+A. To serve web application content.
+B. To convert common language domain names to IP addresses.
+C. To convert IP addresses to common language domain names.
+D. To act as an internet search engin
+Answer: B
+Explanation:
+Domain name system servers act as a "third party" that provides the service of converting common language domain names to IP addresses (which are required
+for a web browser to properly make a request for web content).
+
+NEW QUESTION 55
+What best describes the concept of high availability?
+Choose the Correct Answer
+A. The ability for a system to grow and shrink based on demand.
+B. The ability for a system to withstand a certain amount of failure and still remain functional.
+C. The ability for a system to grow in size, capacity, and/or scope.
+D. The ability for a system be accessible when you attempt to access i
+Answer: D
+Explanation:
+High availability refers to the concept that something will be accessible when you try to access it. An object or web application is "highly available" when it is
+accessible a vast majority of the time.
+
+NEW QUESTION 57
+What is the relationship between AWS global infrastructure and the concept of high availability?
+Choose the Correct Answer
+A. AWS is centrally located in one location and is subject to widespread outages if something happens at that one location.
+B. AWS regions and Availability Zones allow for redundant architecture to be placed in isolated parts of the world.
+C. Each AWS region handles a different AWS services, and you must use all regions to fully use AWS.
+D. None of the above
+Answer: B
+Explanation:
+As an AWS user, you can create your applications infrastructure and duplicate it. By placing duplicate infrastructure in multiple regions, high availability is created
+because if one region fails you have a backup (in a another region) to use.
+
+NEW QUESTION 62
+
+Passing Certification Exams Made Easy
+
+visit - https://www.2PassEasy.com
+
+Welcome to download the Newest 2passeasy AWS-Certified-Cloud-Practitioner dumps
+https://www.2passeasy.com/dumps/AWS-Certified-Cloud-Practitioner/ (105 New Questions)
+
+Mike is setting up the infrastructure for a web application that requires three EC2 instances to handle the expected demand. However, when testing the application,
+Mike find that all traffic to the application is being routed to only one of the servers. What AWS feature should he add to his application in order to have traffic
+evenly distributed between all three servers?
+Choose the Correct Answer
+A. Elastic Load Balancer
+B. Auto Scaling
+C. Route 53
+D. CloudFront
+Answer: A
+Explanation:
+An Elastic Load Balancer is designed to evenly distribute incoming web traffic between all servers that are associated with it.
+
+NEW QUESTION 64
+Karen is building a website that is expected to have a minimum of 1000 users continually over the course of 24 hours. For 8 hours each day, traffic is expected to
+be at about 1800 users. What EC2 buying options should she use to handle all the traffic and be most cost-effective?
+Choose the Correct Answer
+A. Karen should rely solely on spot instances since that will be the cheapest option.
+B. Karen should buy enough reserved instance capacity to handle all 1800 users and probably buy a little more capacity just in case it is needed.
+C. Karen should buy reserved instances with enough capacity to cover the baseline of 1000 users, then rely on on-demand instances for the 8 hour period of
+increased traffic each day.
+D. Karen should buy reserved instances with enough capacity to cover the baseline of 1000 users, then rely on spot instances for the 8 hour period of increased
+traffic each day.
+Answer: C
+Explanation:
+Reserved instances should used use to handle the expected baseline traffic to the website. Reserved instances (in 1/3 year term) can be purchased as a
+significant discount over on-demand instances. Any varying traffic above the baseline should be handled with on-demand instance (since they can be
+added/removed at any time, based on current demand). Spot instances should not be used in this scenario.
+
+NEW QUESTION 66
+What are the TWO main security layers (firewalls) used inside a VPC? Choose the 2 Correct answers:
+A. NetProtect
+B. Network Access Control List
+C. Security Group
+D. Security Lists
+Answer: BC
+Explanation:
+Network Access Control Lists (NACL) act as a firewall on the subnet level, and Security Groups act as a firewall on the instance level.
+
+NEW QUESTION 69
+John, member of your company's development team, needs access to company's AWS account. What AWS service is used to manage such access?
+Choose the Correct Answer
+A. S3
+B. Route 53
+C. IAM
+D. EC2
+Answer: C
+Explanation:
+Identity & Access Management (IAM) is the AWS service where user accounts, credentials, and service access is managed.
+
+NEW QUESTION 74
+What is a main benefit of CloudFront?
+Choose the Correct Answer
+A. DNS management
+B. Unlimited storage
+C. Serverless compute capacity
+D. Built-in DDoS protection
+Answer: D
+Explanation:
+CloudFront allows you to cache content at edge locations. When a request is made for that content, the request is sent to an edge location (not your applications
+hardware), so the edge locations will absorb any DDoS attack and protect your underlining hardware.
+
+NEW QUESTION 78
+
+Passing Certification Exams Made Easy
+
+visit - https://www.2PassEasy.com
+
+Welcome to download the Newest 2passeasy AWS-Certified-Cloud-Practitioner dumps
+https://www.2passeasy.com/dumps/AWS-Certified-Cloud-Practitioner/ (105 New Questions)
+
+If you have a large collection of reproducible objects, which S3 storage class should you use if low cost is your priority?
+Choose the Correct Answer
+A. Glacier
+B. Standard
+C. Reduced Redundancy
+D. None of the above
+Answer: C
+Explanation:
+The reduced redundancy storage class has the lowest durability of all the storage classes. This means object stored in this storage class have the highest
+probability of being lost. So you should only store objects in this storage class if they can be easily reproduced. In exchange for the lower durability, the cost is
+lower than the standard storage class.
+
+NEW QUESTION 82
+Children's All Saints Hospital has millions of old medical records that they must save for regulatory reasons. These records will most likely never be accessed
+again. What is the best and most costeffective S3 storage option that will meet the hospitals needs?
+Choose the Correct Answer
+A. Standard
+B. Infrequent Access
+C. Glacier
+D. Reduced Redundacy
+Answer: C
+Explanation:
+Glacer is specifically designed for long-term archival storage. It is extremely inexpensive and should only be used for items that you access very infrequently.
+
+NEW QUESTION 87
+In S3, what is a file that you upload called?
+Choose the Correct Answer
+A. Static File
+B. Bucket
+C. Folder
+D. Object
+Answer: D
+Explanation:
+Files that are stored in S3 are referred to as objects.
+
+NEW QUESTION 92
+What is the name of AWS's RDS SQL database engine?
+Choose the Correct Answer
+A. Lightsail
+B. SNS
+C. MySQL
+D. Aurora
+Answer: D
+Explanation:
+AWS created their own custom SQL database engine, which is called Aurora.
+
+NEW QUESTION 96
+What is AWS's relational database service?
+Choose the Correct Answer
+A. Redshift
+B. DymamoDB
+C. ElastiCache
+D. RDS
+Answer: D
+Explanation:
+RDS offers SQL database options - otherwise known as relational databases.
+
+NEW QUESTION 101
+What is the major difference between AWS's RDS and DynamoDB database services?
+Choose the Correct Answer
+A. RDS offers NoSQL database options, and DynamoDB offers SQL database options.
+
+Passing Certification Exams Made Easy
+
+visit - https://www.2PassEasy.com
+
+Welcome to download the Newest 2passeasy AWS-Certified-Cloud-Practitioner dumps
+https://www.2passeasy.com/dumps/AWS-Certified-Cloud-Practitioner/ (105 New Questions)
+
+B. RDS offers on SQL database option, and DynamoDB offers many NoSQL database options.
+C. RDS offers SQL database options, and DynamoDB offers a NoSQL database option.
+D. None of the above
+Answer: C
+Explanation:
+RDS is a SQL database service (that offers several database engine options), and DynamoDB is a NoSQL database option that only offers one NoSQL engine.
+
+NEW QUESTION 103
+If you want to monitor the average CPU usage of your EC2 instances, which AWS service should you use?
+Choose the Correct Answer
+A. CloudMonitor
+B. CloudTrail
+C. CloudWatch
+D. None of the above
+Answer: C
+Explanation:
+CloudWatch is used to collect, view, and track metrics for resources (such as EC2 instances) in your AWS account.
+
+NEW QUESTION 107
+Under what circumstances would you choose to use the AWS service CloudTrail?
+Choose the Correct Answer
+A. When you want to collect and view resource metrics.
+B. When you want to log what actions various IAM users are taking in your AWS account.
+C. When you want a serverless compute platform.
+D. When you want to send SMS notificaitions based on events that occur in your accoun
+Answer: B
+Explanation:
+CloudTrail is AWS's logging service used to log actions taken by users in your AWS account.
+
+NEW QUESTION 112
+What term best describes the AWS pricing model?
+Choose the Correct Answer
+A. Pay-all-up-front
+B. Pay-as-you-go
+C. Pay-all-at-end
+D. None of the above
+Answer: B
+Explanation:
+AWS operates on a pay-as-you-go model. No upfront cost or termination fees.
+
+NEW QUESTION 113
+What MUST you do before you do any penetration testing on your account?
+Choose the Correct Answer
+A. Penetration testing is now allowed.
+B. Contact AWS and let them know first.
+C. Nothing, you are free to do penetration testing whenever you like.
+D. None of the above
+Answer: B
+Explanation:
+You must contact AWS before doing any penetration testing on your account. If you do not notify AWS first, they may shut down your account.
+
+NEW QUESTION 115
+Which of the following are AWS Support Plans? (Select all that apply) Choose the 3 Correct answers:
+A. Enterprise
+B. Expert
+C. Basic
+D. Business
+Answer: ACD
+Explanation:
+AWS has four support plan levels: Basic Developer Business Enterprise
+
+Passing Certification Exams Made Easy
+
+visit - https://www.2PassEasy.com
+
+Welcome to download the Newest 2passeasy AWS-Certified-Cloud-Practitioner dumps
+https://www.2passeasy.com/dumps/AWS-Certified-Cloud-Practitioner/ (105 New Questions)
+
+NEW QUESTION 116
+What categories full under those analyzed by the AWS Trusted Advisor program? (Select all that apply)
+Choose the 2 Correct answers:
+A. Fault tolerance
+B. Scalability
+C. Cost optimization
+D. None of the above
+Answer: AC
+Explanation:
+The AWS Trusted Advisor program will analyze your account with check in the following categories: Cost Optimization Performance Security Fault Tolerance
+
